@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\HexFile\HexFile\bin\Debug\HexFile.exe.config
+C:\AnyThingElse\PB VS C#\HexFile\HexFile\bin\Debug\HexFile.exe
+C:\AnyThingElse\PB VS C#\HexFile\HexFile\bin\Debug\HexFile.pdb
+C:\AnyThingElse\PB VS C#\HexFile\HexFile\obj\Debug\HexFile.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\HexFile\HexFile\obj\Debug\HexFile.exe
+C:\AnyThingElse\PB VS C#\HexFile\HexFile\obj\Debug\HexFile.pdb
